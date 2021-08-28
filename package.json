@@ -1,0 +1,25 @@
+{
+  "name": "find-the-sharks",
+  "version": "1.0.0",
+  "description": "Bot to monitor Nouns auctions and attempt to mint a Shark, on behalf of @sharkdao, in the blocks between the end of an auction and settlement by another party.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitforager:theforager/find-the-sharks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.6.1"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.6"
+  }
+}
