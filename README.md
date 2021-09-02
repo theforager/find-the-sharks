@@ -25,3 +25,9 @@ export MAINNET_PRIVATE_KEY="0x<PRIVATE KEY HERE>"
 Ethereum Mainnet: `npx hardhat run scripts/find-sharks.js --network mainnet`
 
 Rinkeby Test Network: `npx hardhat run scripts/find-sharks.js --network rinkeby`
+
+### Links:
+
+Proposal Draft: https://hackmd.io/bpj1RtGxS0iJ4WBXhWZ1rw
+Deployments: https://hackmd.io/GxbJcBYITk2K4uTAQI8ndA
+
